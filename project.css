@@ -14,13 +14,13 @@ font-size: 170%
 
 .box{
 
-               background-color:hotpink;
+               background-color:#FF69B4;
 
-               color:white;
+               color:#FFFFFF;
 
                text-align:center;
 
-               padding: 10px;;
+               padding: 10pt;;
 
                margin-top:10px;
 }
